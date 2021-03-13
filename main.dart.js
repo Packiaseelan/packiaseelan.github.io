@@ -49499,7 +49499,7 @@ $C:"$2",
 $R:2,
 $S:318}
 V.Am.prototype={
-J:function(a,b){var s="images/bg.png",r=C.S.as(178.5),q=U.a5s(P.aX(r,0,0,0),C.iz,C.l7,new L.lI(s))
+J:function(a,b){var s="assets/images/bg.png",r=C.S.as(178.5),q=U.a5s(P.aX(r,0,0,0),C.iz,C.l7,new L.lI(s))
 return K.Sr(U.a5s(P.aX(r,0,0,0),C.iz,C.l7,new L.lI(s)),q,null)}}
 V.yq.prototype={
 J:function(a,b){var s=null,r=t.w,q=b.a1(r).f,p=b.a1(r).f
