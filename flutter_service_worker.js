@@ -4,17 +4,17 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "602d59382b0bc9f42c3d5320cf11c33b",
-"index.html": "a74bf22f12930062012cda669c58e5f7",
-"/": "a74bf22f12930062012cda669c58e5f7",
-"main.dart.js": "279525202a8708ddd20d18ab76410b95",
+"index.html": "81e1f735e9f738b1afd493c623b77698",
+"/": "81e1f735e9f738b1afd493c623b77698",
+"main.dart.js": "98d9c49cbf1c8625481203c49e6cfbb4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "048fd92d3033a28a3af3cf2c93d68da7",
-"assets/AssetManifest.json": "04550b53ed22ce5cef20ad5f8f161f88",
-"assets/NOTICES": "0523f70426f89d3f5904390e33944913",
+"assets/AssetManifest.json": "95ef2177fdcff8e20110194c48e0e16d",
+"assets/NOTICES": "3caa26525398b89e0a14d177592b9d3a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -27,6 +27,11 @@ const RESOURCES = {
 "assets/assets/icons/twitter.svg": "a1dddd4779974086f5cda786373c70b5",
 "assets/assets/icons/skype.svg": "68d14c0087a7ddeba9bd7d5a7a6b6c56",
 "assets/assets/icons/moon.svg": "fc0f2887cf991261005ab9d6714e876a",
+"assets/assets/lottie/world-map.json": "ea1dd3babe896d31ad9fa1717b874999",
+"assets/assets/lottie/map-light.json": "ce7907d7ecbdec5ace0587393b48ce99",
+"assets/assets/lottie/construction-light.json": "891fad71d3c9e3f0f945461d5380becd",
+"assets/assets/lottie/map-dark.json": "ce7907d7ecbdec5ace0587393b48ce99",
+"assets/assets/lottie/construction-dark.json": "891fad71d3c9e3f0f945461d5380becd",
 "assets/assets/data/temp.json": "ec10c4ef9ccdb001c45061d514b5c9c8"
 };
 
