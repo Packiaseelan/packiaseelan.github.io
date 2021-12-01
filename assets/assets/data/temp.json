@@ -73,6 +73,11 @@
             "description": "Find me in Social Media.",
             "details": [
                 {
+                    "name": "Github",
+                    "icon_path": "assets/icons/github.svg",
+                    "value": "https://github.com/Packiaseelan"
+                },
+                {
                     "name": "LinkedIn",
                     "icon_path": "assets/icons/linkedin.svg",
                     "value": "https://www.linkedin.com/in/packiaseelan14/"
