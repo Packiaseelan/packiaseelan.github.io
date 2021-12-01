@@ -2,9 +2,97 @@
     "app": {
         "app_name": "Portfolio - Demo"
     },
+    "footer": {
+        "description": "Love it, do it, live it."
+    },
     "home_view": {
-        "greeting" : "HELLO EVERYBODY, I AM",
-        "name" : "PACKIASEELAN S",
+        "greeting": "HELLO EVERYBODY, I AM",
+        "name": "PACKIASEELAN S",
         "role": "Flutter Developer"
+    },
+    "about": {
+        "point1": "I build things for Android and iOS. I realy enjoy taking complex problems and turning into simple and beautiful apps. I also love the logic and structure of coding and always strive to write elegant and efficient code. And I enjoy learning languages and framework like Flutter and SwiftUI.",
+        "point2": "Experienced mobile app developer who has a record of success creating apps that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it absolutely perfect."
+    },
+    "skills": {
+        "chip": [
+            "Flutter",
+            "Dart",
+            "Xamarin",
+            "SwiftUI",
+            "Andriod",
+            "iOS"
+        ],
+        "chart": [
+            {
+                "title": "Flutter",
+                "percentage": 90
+            },
+            {
+                "title": "Dart",
+                "percentage": 90
+            },
+            {
+                "title": "SwiftUI",
+                "percentage": 50
+            },
+            {
+                "title": "Xamarin",
+                "percentage": 70
+            }
+        ]
+    },
+    "contact": {
+        "subTitle": "Keep in touch",
+        "contact_details": {
+            "description": "Connect with me anytime from anywhere in the world virtually.",
+            "details": [
+                {
+                    "name": "Phone",
+                    "icon_path": "",
+                    "value": "+91 9626449468"
+                },
+                {
+                    "name": "WhatsApp",
+                    "icon_path": "",
+                    "value": "+91 9626449468"
+                },
+                {
+                    "name": "Skype",
+                    "icon_path": "",
+                    "value": ""
+                },
+                {
+                    "name": "Email",
+                    "icon_path": "",
+                    "value": "packiaseelan14@gmail.com"
+                }
+            ]
+        },
+        "social_media": {
+            "description": "Find me in Social Media.",
+            "details": [
+                {
+                    "name": "LinkedIn",
+                    "icon_path": "assets/icons/linkedin.svg",
+                    "value": "https://www.linkedin.com/in/packiaseelan14/"
+                },
+                {
+                    "name": "Facebook",
+                    "icon_path": "assets/icons/facebook.svg",
+                    "value": "https://www.facebook.com/packiaseelan14/"
+                },
+                {
+                    "name": "Twitter",
+                    "icon_path": "assets/icons/twitter.svg",
+                    "value": "https://twitter.com/packiaseelan14"
+                },
+                {
+                    "name": "Instagram",
+                    "icon_path": "assets/icons/instagram.svg",
+                    "value": "https://www.instagram.com/packiaseelan14/"
+                }
+            ]
+        }
     }
 }
