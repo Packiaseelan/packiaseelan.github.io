@@ -5,10 +5,12 @@
     "footer": {
         "description": "Love it, do it, live it."
     },
-    "home_view": {
+    "home": {
         "greeting": "HELLO EVERYBODY, I AM",
         "name": "PACKIASEELAN S",
-        "role": "Flutter Developer"
+        "role": "Flutter Developer",
+        "greeting_text": "BE BRAVE ENOUGH\nTO STUCK AT\nSOMETHING NEW.",
+        "summary": "A mobile application developer with 5+ years of experience in Software Deelopment, Applicaton Maintenance, Support and Project Execution in Android and iOS using Flutter and Xamarin."
     },
     "about": {
         "point1": "I build things for Android and iOS. I realy enjoy taking complex problems and turning into simple and beautiful apps. I also love the logic and structure of coding and always strive to write elegant and efficient code. And I enjoy learning languages and framework like Flutter and SwiftUI.",
@@ -18,10 +20,14 @@
         "chip": [
             "Flutter",
             "Dart",
+            "Firebase",
             "Xamarin",
             "SwiftUI",
             "Andriod",
-            "iOS"
+            "iOS",
+            ".NET",
+            "Git",
+            "Agile"
         ],
         "chart": [
             {
